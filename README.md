@@ -157,14 +157,6 @@ Other        54 mins         ▒░░░░░░░░░░░░░░░░
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/Tocchizawa/Tocchizawa/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">

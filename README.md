@@ -57,14 +57,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tocchizawa&show_icons=true&count_private=true&hide_border=true&title_color=2E96FF&icon_color=2E96FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tocchizawa&layout=compact&hide_border=true&title_color=2E96FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tocchizawa&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 

@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
   <a href="https://mcp-container.com">
-    <img src="https://img.shields.io/badge/MCP_Container-FF6B6B?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/MCP_Container-FF6B6B?style=flat-square&logo=square&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Tocchizawa&style=flat-square&color=blue" alt="Profile views" />
 </div>

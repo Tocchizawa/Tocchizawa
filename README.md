@@ -25,8 +25,7 @@
 
 ### 🔭 Currently Working On
 
-- **[MCP Container](https://mcp-container.com)** - Container management platform
-- **[Felixa](https://github.com/Tocchizawa/Felixa)** - My passion project
+- **[Felixa](https://felixa.jp)** - My passion project
 
 ---
 
@@ -64,10 +63,7 @@
 
 ## 🚀 Featured Projects
 
-### 🌟 [MCP Container](https://mcp-container.com)
-> A powerful container management platform built with modern technologies
-
-### ✨ [Felixa](https://github.com/Tocchizawa/Felixa)
+### ✨ [Felixa](https://felixa.jp)
 > Personal passion project - Currently under active development
 
 ---

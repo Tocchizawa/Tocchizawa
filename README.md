@@ -25,9 +25,5 @@
 ## 📫 Contact
 
 - GitHub: [@Tocchizawa](https://github.com/Tocchizawa)
-- Followers: 38 | Following: 37
 
----
-
-**Happy coding! 🚀**
 

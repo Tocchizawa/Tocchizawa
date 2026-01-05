@@ -22,8 +22,5 @@
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📫 Contact
-
-- GitHub: [@Tocchizawa](https://github.com/Tocchizawa)
 
 
